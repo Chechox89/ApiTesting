@@ -1,0 +1,21 @@
+{
+    "name": "nodeapidemo",
+    "version": "1.1.0",
+    "description": "api demo testing",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo. Error no test specified && exit",
+      "start": ""
+    },
+    "keywords": [],
+    "author": "SCL",
+    "license": "ISC",
+    "dependencies": {
+      "express": "4.17.2"
+    },
+    "repository": {
+      "type": "git",
+      "url": "apiDemo"
+    }
+  }
+  
