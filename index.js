@@ -6,7 +6,7 @@ const array=[
     
 {
     name:"john wick",
-    age:"90"
+    age:"100"
 },
 
 {
